@@ -1,6 +1,4 @@
 language: c
-script: scons
-sudo: false
+sudo: required
 compiler:
-  - clang
   - gcc
