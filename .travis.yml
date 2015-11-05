@@ -1,6 +1,6 @@
+./configure && make && make test
 language: c
 sudo: true
-script: scons
 compiler:
   - gcc
   - clang
