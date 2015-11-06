@@ -1,6 +1,6 @@
 language: c
 sudo: false
-script: scons
+script: scons.py
 compiler:
   - gcc
   - clang
