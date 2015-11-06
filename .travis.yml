@@ -1,6 +1,6 @@
 language: c
-sudo: true
-script: scons
+sudo: required
+script: scons.py
 compiler:
   - gcc
   - clang
